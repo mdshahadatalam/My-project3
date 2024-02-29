@@ -1,0 +1,13 @@
+*{
+    font-family: "Open Sans", sans-serif;
+    background-color: #080828;
+}
+.cloud-img{
+    width: 40px;
+    
+}
+.book-demo{
+    background-color: white;
+    border-radius: 15px;
+    height: 35px;
+}
