@@ -42,3 +42,26 @@
     padding: 30px;
 
 }
+.my-img{
+    width: 50px;
+    border-radius: 50%;
+}
+
+.input-title{
+    width: 50px;
+    border-radius: 20px;
+    background-color: #333a68;
+    color: white;
+
+}
+
+.bg-color{
+    background-color: #20213d;
+    color: white;
+    padding: 10px;
+    text-transform: capitalize;
+
+}
+.box{
+    border-radius: 30px;
+}
