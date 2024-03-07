@@ -86,3 +86,12 @@
     text-transform: capitalize;
 
 }
+.last-section{
+    background-image: url(bg-img3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 400px;
+    
+}
