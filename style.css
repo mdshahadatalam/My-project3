@@ -73,3 +73,16 @@
     border-radius: 20px;
     
 }
+.top-box{
+    background-image: url(bg-image.jpg);
+    background-size: cover;
+    border-radius: 20px;
+    color: white;
+    height: 185px;
+    padding-top: 10px;
+    padding-left: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: capitalize;
+
+}
