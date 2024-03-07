@@ -65,3 +65,11 @@
 .box{
     border-radius: 30px;
 }
+.eight-box,.four-box{
+    background-image: url(bg-img2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    border-radius: 20px;
+    
+}
