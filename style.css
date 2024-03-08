@@ -95,3 +95,10 @@
     height: 400px;
     
 }
+.acount-image{
+    width: 30px;
+    
+}
+.hot-line :hover{
+  text-decoration: underline;
+}
